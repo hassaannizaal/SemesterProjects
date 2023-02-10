@@ -1,7 +1,6 @@
 //TECH HUB
 //DSA FINAL SEMESTER PROJECT
 //213060 Muhammad Hassaan Nizaal
-//213033 Ali Shaan
   #include<iostream>
 
 
