@@ -1,6 +1,4 @@
 //213060 Muhammad Hassaan Nizaal
-//213191 Mahir Ahmad Cheema
-//213033 Ali Shaan
 //SEMESTER PROJECT 
 //CAR PARKING SYSTEM
 #include<iostream>
